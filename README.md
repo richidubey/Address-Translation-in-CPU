@@ -18,3 +18,12 @@ Other Assumptions:
 3. All other pages are loaded on demand [Assume the system supports dynamic loading. Also assume that the system has no dynamic linking support].
 4. Main memory follows Global replacement. Lower limit number of pages and upper limit number of pages per process should be strictly maintained.
 5. Page tables of all the processes reside in main memory and will not be loaded into cache memory levels.
+
+
+Execution Snapshots:
+
+![Make Command](https://github.com/richidubey/Address-Translation-in-CPU/tree/master/screenshots/1.png)
+
+![In Between](https://github.com/richidubey/Address-Translation-in-CPU/tree/master/screenshots/2.png)
+
+![End of execution](https://github.com/richidubey/Address-Translation-in-CPU/tree/master/screenshots/3.png)
