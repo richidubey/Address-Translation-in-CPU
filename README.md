@@ -24,6 +24,6 @@ Execution Snapshots:
 
 ![Make Command](https://github.com/richidubey/Address-Translation-in-CPU/blob/master/screenshots/1.png?raw=true)
 
-![In Between](https://github.com/richidubey/Address-Translation-in-CPU/tree/master/screenshots/2.png?raw=true)
+![In Between](https://github.com/richidubey/Address-Translation-in-CPU/blob/master/screenshots/2.png?raw=true)
 
-![End of execution](https://github.com/richidubey/Address-Translation-in-CPU/tree/master/screenshots/3.png?raw=true)
+![End of execution](https://github.com/richidubey/Address-Translation-in-CPU/blob/master/screenshots/3.png?raw=true)
